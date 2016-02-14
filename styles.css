@@ -1,0 +1,49 @@
+	body {
+		width: 90%;
+		//background: red;
+	}
+
+	.ejercicios {
+		float: left;
+		margin-top: 20px;
+	}
+
+	.respuestas {
+
+		float: left;
+		margin: 20px;
+		border: 1px solid;
+	}
+
+	button {
+
+		width: 70px;
+		height: 35px;
+		color: white;
+		background-color: black;
+	}
+
+	select {
+		width: 320px;
+		height: 30px;
+		font-size: 16px;
+		font-family: comic-sans;
+		padding-left: 20px;
+	}
+
+	input {
+		margin-left: 40px;
+		width: 280px;
+		height: 30px;
+		font-size: 16px;
+		font-family: comic-sans;
+	}
+
+	p {
+		margin-left: 40px;
+		width: 280px;
+		height: 30px;
+		font-size: 24px;
+		color: Green
+		font-family: comic-sans;	
+	}
